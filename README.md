@@ -57,10 +57,11 @@ int main() {
 ~~~
 
 # OUTPUT
-k.txt file
+
+# k.txt file
 ![Ex6(k txt)](https://github.com/user-attachments/assets/878cf7bb-1e67-40e9-ade3-c43f1de6ba61)
 
-program output
+# program output
 
 ![WhatsApp Image 2024-10-17 at 03 54 50_b03e1b38](https://github.com/user-attachments/assets/6d34030d-12bb-46db-9aca-126aa2a3ff34)
 
